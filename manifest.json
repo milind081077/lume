@@ -1,0 +1,23 @@
+{
+  "name": "Lume — Critical Tracker",
+  "short_name": "Lume",
+  "description": "Personal critical tracker — AMC, finances, contacts, reminders and more",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "scope": "/",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg",     "sizes": "any",      "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "AMC",           "url": "/index.html#AMC",           "description": "Open AMC tracker"              },
+    { "name": "Car Maintenance","url": "/index.html#CarMaintenance","description": "Open Car Maintenance tracker"  },
+    { "name": "Reminders",     "url": "/index.html#expCal",        "description": "Open Experience Calendar"      }
+  ],
+  "categories": ["productivity", "finance", "utilities"],
+  "lang": "en-IN"
+}
