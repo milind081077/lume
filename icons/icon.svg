@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0a0a0f"/>
+  <rect x="48" y="48" width="416" height="416" rx="56" fill="#111118"/>
+  <rect x="72" y="72" width="368" height="368" rx="40" fill="none" stroke="#c9a84c" stroke-width="6" opacity="0.3"/>
+  <!-- L lettermark -->
+  <text x="256" y="330" font-family="Georgia, serif" font-weight="700" font-size="240" fill="#c9a84c" text-anchor="middle" dominant-baseline="auto" letter-spacing="-8">L</text>
+  <!-- Accent dot -->
+  <circle cx="338" cy="344" r="18" fill="#4cc9a8"/>
+</svg>
